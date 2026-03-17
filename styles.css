@@ -288,6 +288,10 @@ li {
   display: block;
 }
 
+.proof-section .section-heading {
+  margin-bottom: 18px;
+}
+
 .pillar-grid,
 .proof-grid,
 .embed-grid,
